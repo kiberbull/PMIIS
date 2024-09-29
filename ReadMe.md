@@ -21,7 +21,7 @@
 # Описание кода Задание №2 Вариант №14
 Напишите две функции. Первая функция заполняет массив случайными значениями, вторая функция выводит массив на экран
 
-{ import random
+import random
 
 def fill_array_with_random_values(size, min_value=0, max_value=100):
     """
@@ -54,4 +54,3 @@ if __name__ == "__main__":
     random_array = fill_array_with_random_values(size, min_value, max_value)
     print("Сгенерированный массив случайных значений:")
     print_array(random_array)
-}
