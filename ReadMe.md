@@ -93,3 +93,7 @@
     # Выводим таблицу с ФИО и среднеарифметической оценкой
     result = df[['ФИО', 'Средний балл']]
     print(result)
+
+# Пример вывода
+
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/3ba55cf8-95ab-43ba-9668-e85541ee1ed2">
